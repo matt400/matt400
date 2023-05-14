@@ -1,3 +1,3 @@
 Hi,
 
-**I’m currently learning [Kotlin](https://kotlinlang.org/)**
+**I’m currently learning [Kotlin](https://kotlinlang.org/)** :-)
