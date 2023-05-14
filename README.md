@@ -1,3 +1,3 @@
-👋 Hi, I’m @matt400
+Hi,
 
-👀 I’m currently learning C#
+**I’m currently learning [Kotlin](https://kotlinlang.org/)**
